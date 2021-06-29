@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mariadb://retromark-db:3306/test
+    username: root
+    password: retromark
+  jpa:
+    hibernate:
+      ddl-auto: update

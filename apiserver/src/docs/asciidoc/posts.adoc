@@ -1,0 +1,15 @@
+== 회고
+
+=== 회고 목록 가져오기
+
+회고 목록을 JSON 형태로 돌려줍니다.
+
+.Request
+
+include::{snippets}/posts-list/http-request.adoc[]
+
+.Response
+
+include::{snippets}/posts-list/http-response.adoc[]
+
+include::{snippets}/posts-list/response-fields.adoc[]
